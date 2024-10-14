@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Siddhi Poojari
 
-Welcome to my GitHub profile! I’m a passionate Data Science and Analytics student at the University of Texas at Austin. With a strong foundation in engineering and a flair for data-driven solutions, I love transforming complex data into meaningful insights.
+Welcome to my GitHub profile! I’m a passionate Data Science and Analytics student at the University of Texas at Austin, where I also serve as a Teaching Assistant for Database Management Systems at the iSchool. With a strong foundation in engineering and a flair for data-driven solutions, I love transforming complex data into meaningful insights.
+[View on Giphy](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)
 
 ## 🎓 Education
 
@@ -10,6 +11,9 @@ _Master of Science in Information Studies (Data Science and Analytics)_
 **University of Mumbai**  
 _Bachelor of Engineering in Information Technology_  
 
+## 🌱 Currently Learning
+
+I’m diving into the fascinating worlds of **Natural Language Processing** and **Computer Vision**! Excited to turn machines into language interpreters and visual thinkers. 🚀
 
 ## 🛠️ Technical Skills
 
@@ -18,32 +22,6 @@ _Bachelor of Engineering in Information Technology_
 - **Frameworks:** Angular, Spring MVC
 - **Tools:** Tableau, VS Code, Weka, Jira, GitHub, Postman
 
-## 💼 Experience
-
-### Business Analytics Intern at Psychedelic Association of Canada
-_June 2024 – July 2024_  
-- Scraped 500+ rows of data and automated workflows, reducing manual data entry by 60%!
-- Created Tableau dashboards that boosted email open rates by 40%!
-
-### Team Lead at Tata Consultancy Services
-_Sept 2020 – June 2023_  
-- Led a cross-functional team to build an invoice discounting platform, cutting project delivery time by 2 weeks.
-- Visualized cash flow trends using Tableau and optimized financial transaction processes.
-
-### Data Analyst Intern at Bhakti Vedanta Hospital & Research Institute
-_June 2018 – Aug 2018_  
-- Implemented clickstream analytics that contributed to a 25% increase in volunteer sign-ups!
-
-## 🌟 Projects
-
-- **RAG Model for Healthcare**  
-  Developed a Retrieval-Augmented Generation model using LangChain and OpenAI, enhancing response accuracy by 30%.
-
-- **Predictive Model for Identifying Risk of Layoff**  
-  Achieved 91% accuracy predicting employee layoff risks using various machine learning models.
-
-- **Land Registry using Blockchain**  
-  Designed a secure platform for property ownership verification with smart contracts handling over 10,000 transactions!
 
 ## 📫 Get in Touch!
 
