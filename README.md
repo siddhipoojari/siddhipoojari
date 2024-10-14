@@ -1,6 +1,7 @@
 # 👋 Hi there! I'm Siddhi Poojari
 
-Welcome to my GitHub profile! I’m a passionate Data Science and Analytics student at the University of Texas at Austin, where I also serve as a Teaching Assistant for Database Management Systems at the iSchool. With a strong foundation in engineering and a flair for data-driven solutions, I love transforming complex data into meaningful insights.
+Welcome to my GitHub profile! I’m a passionate Data Science and Analytics student at the University of Texas at Austin, where I also work as a Teaching Assistant for Database Management Systems at the iSchool. My experience as a full-stack developer at Tata Consultancy Services (TCS) made me well-versed in Angular and Spring MVC, and gave me the opportunity to collaborate with diverse teams to deliver products. 
+I love transforming complex data into meaningful insights through innovative, data-driven solutions.
 
 [View on Giphy](https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm)
 
