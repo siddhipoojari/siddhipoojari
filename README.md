@@ -28,7 +28,7 @@ I’m diving into the fascinating worlds of **Natural Language Processing**, **C
 
 - Email: [siddhi.poojari@utexas.edu](mailto:siddhi.poojari@utexas.edu)
 - LinkedIn: [linkedin.com/in/siddhipoojari](https://linkedin.com/in/siddhipoojari)
-- HackerRank: [hackerrank.com/siddhipoojari](https://www.hackerrank.com/dashboard)
+- HackerRank: [hackerrank.com/siddhipoojari]([https://www.hackerrank.com/dashboard](https://www.hackerrank.com/profile/siddhipoojari7))
 - Tableau Public: [tableau.com/siddhi.poojari](https://public.tableau.com/app/profile/siddhi.poojari5375/vizzes)
 
 Feel free to check out my repositories and connect with me! I'm always open to discussing data science, analytics, and innovative tech solutions! 🚀
